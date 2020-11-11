@@ -1,0 +1,14 @@
+*, html {
+  color: #333;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+   background-color: #f6f6f6 !important;
+}
+.main-wrapper {
+   flex: 1 0 auto;
+   margin-top: 80px;
+}
+
